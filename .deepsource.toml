@@ -1,19 +1,4 @@
 version = 1
 
 [[analyzers]]
-name = "test-coverage"
-
-[[analyzers]]
-name = "secrets"
-
-[[analyzers]]
-name = "go"
-
-  [analyzers.meta]
-  import_root = "github.com/JL3s/covid19india-react"
-
-[[analyzers]]
-name = "docker"
-
-[[analyzers]]
 name = "javascript"
